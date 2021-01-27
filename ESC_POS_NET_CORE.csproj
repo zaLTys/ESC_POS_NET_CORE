@@ -5,6 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ESC_POS_NET_CORE_Demo\**" />
+    <EmbeddedResource Remove="ESC_POS_NET_CORE_Demo\**" />
+    <None Remove="ESC_POS_NET_CORE_Demo\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="System.Drawing.Common" Version="5.0.0" />
   </ItemGroup>
 
