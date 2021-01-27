@@ -1,0 +1,4 @@
+C:\Users\povil\source\repos\ESC_POS_NET_CORE\obj\Debug\netcoreapp3.1\ESC_POS_NET_CORE.csprojAssemblyReference.cache
+C:\Users\povil\source\repos\ESC_POS_NET_CORE\obj\Debug\netcoreapp3.1\ESC_POS_NET_CORE.AssemblyInfoInputs.cache
+C:\Users\povil\source\repos\ESC_POS_NET_CORE\obj\Debug\netcoreapp3.1\ESC_POS_NET_CORE.AssemblyInfo.cs
+C:\Users\povil\source\repos\ESC_POS_NET_CORE\obj\Debug\netcoreapp3.1\ESC_POS_NET_CORE.csproj.CoreCompileInputs.cache

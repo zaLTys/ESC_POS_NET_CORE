@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jwscKvHkMqJ0BWJvHRkvsCJL8SAh4e4tGagVcZfcgbGrYTQhkT2znSga08V7wizGbk1bza7GC0BffglqLv5bvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\povil\\source\\repos\\ESC_POS_NET_CORE\\ESC_POS_NET_CORE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\povil\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\povil\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\povil\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
