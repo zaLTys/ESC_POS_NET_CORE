@@ -17,6 +17,7 @@ namespace ESC_POS_NET_CORE_Demo
 
         private static void PrintBarcodes(Printer printer)
         {
+            printer.SetLineHeight(40);
             printer.Code128("CEINTVDG1SVJY258C", Positions.BelowBarcode);
             printer.Ean13("CEINTVDG1SVJY258C", Positions.BelowBarcode);
             printer.Code39("CEINTVDG1SVJY258C", Positions.BelowBarcode);

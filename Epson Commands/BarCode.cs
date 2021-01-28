@@ -24,7 +24,7 @@ namespace ESC_POS_NET_CORE.Epson_Commands
 
         public byte[] Code39(string code, Positions printString = Positions.NotPrint)
         {
-            var result = new byte[] { 29, 119, 1 } // Width
+            var result = new byte[] { 29, 119, 2 } // Width
                 .AddBytes(new byte[] { 29, 104, 96 }) // Height
                 .AddBytes(new byte[] { 29, 102, 2 }) // font hri character
                 .AddBytes(new byte[] { 29, 72, printString.ToByte() }) // If print code informed
