@@ -281,10 +281,18 @@ namespace ESC_POS_NET_CORE
             Append(_command.BarCode.Code39(code,  printString));
         }
 
+        public void Code39Expanded(string code, Positions printString = Positions.NotPrint)
+        {
+            Append(_command.BarCode.Code39Expanded(code, printString));
+        }
+
         public void Ean13(string code, Positions printString = Positions.NotPrint)
         {
             Append(_command.BarCode.Ean13(code,  printString));
         }
+
+
+
 
         public void InitializePrint()
         {
