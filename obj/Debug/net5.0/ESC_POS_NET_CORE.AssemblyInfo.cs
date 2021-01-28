@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ESC_POS_NET_CORE")]
+[assembly: System.Reflection.AssemblyProductAttribute("ESC-POS-NET-CORE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ESC_POS_NET_CORE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

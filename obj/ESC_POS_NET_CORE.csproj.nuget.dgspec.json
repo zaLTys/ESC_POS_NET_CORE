@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Projects\\ESC_POS_NET_CORE\\ESC_POS_NET_CORE.csproj",
-        "projectName": "ESC_POS_NET_CORE",
+        "projectName": "ESC-POS-NET-CORE",
         "projectPath": "C:\\Projects\\ESC_POS_NET_CORE\\ESC_POS_NET_CORE.csproj",
         "packagesPath": "C:\\Users\\povil\\.nuget\\packages\\",
         "outputPath": "C:\\Projects\\ESC_POS_NET_CORE\\obj\\",

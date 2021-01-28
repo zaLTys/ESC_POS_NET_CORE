@@ -16,11 +16,11 @@ namespace ESC_POS_NET_CORE
         private readonly string _printerName;
         private readonly IPrintCommand _command;
         private readonly string _codepage;
-        public Printer()
+        public Printer(string printerName = "BIXOLON SRP-E300",string codepage = "Windows-1257")
         {
-            _printerName = "BIXOLON SRP-E300";
+            _printerName = printerName;
             _command = new EscPos();
-            _codepage = "Windows-1257";
+            _codepage = codepage;
         }
 
         public int ColsNomal
