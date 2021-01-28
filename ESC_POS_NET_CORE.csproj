@@ -2,12 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>zaLTys</Authors>
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="ESC_POS_NET_CORE_Demo\**" />
-    <EmbeddedResource Remove="ESC_POS_NET_CORE_Demo\**" />
-    <None Remove="ESC_POS_NET_CORE_Demo\**" />
+    <Compile Remove="PrinterWebApi\**" />
+    <EmbeddedResource Remove="PrinterWebApi\**" />
+    <None Remove="PrinterWebApi\**" />
   </ItemGroup>
 
   <ItemGroup>

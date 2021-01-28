@@ -1,14 +1,3 @@
-C:\Users\povil\source\repos\ESC_POS_NET_CORE\bin\Debug\net5.0\ESC_POS_NET_CORE.deps.json
-C:\Users\povil\source\repos\ESC_POS_NET_CORE\bin\Debug\net5.0\ESC_POS_NET_CORE.dll
-C:\Users\povil\source\repos\ESC_POS_NET_CORE\bin\Debug\net5.0\ref\ESC_POS_NET_CORE.dll
-C:\Users\povil\source\repos\ESC_POS_NET_CORE\bin\Debug\net5.0\ESC_POS_NET_CORE.pdb
-C:\Users\povil\source\repos\ESC_POS_NET_CORE\obj\Debug\net5.0\ESC_POS_NET_CORE.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\povil\source\repos\ESC_POS_NET_CORE\obj\Debug\net5.0\ESC_POS_NET_CORE.AssemblyInfoInputs.cache
-C:\Users\povil\source\repos\ESC_POS_NET_CORE\obj\Debug\net5.0\ESC_POS_NET_CORE.AssemblyInfo.cs
-C:\Users\povil\source\repos\ESC_POS_NET_CORE\obj\Debug\net5.0\ESC_POS_NET_CORE.csproj.CoreCompileInputs.cache
-C:\Users\povil\source\repos\ESC_POS_NET_CORE\obj\Debug\net5.0\ESC_POS_NET_CORE.dll
-C:\Users\povil\source\repos\ESC_POS_NET_CORE\obj\Debug\net5.0\ref\ESC_POS_NET_CORE.dll
-C:\Users\povil\source\repos\ESC_POS_NET_CORE\obj\Debug\net5.0\ESC_POS_NET_CORE.pdb
 C:\Projects\ESC_POS_NET_CORE\bin\Debug\net5.0\ESC_POS_NET_CORE.deps.json
 C:\Projects\ESC_POS_NET_CORE\bin\Debug\net5.0\ESC_POS_NET_CORE.dll
 C:\Projects\ESC_POS_NET_CORE\bin\Debug\net5.0\ref\ESC_POS_NET_CORE.dll
