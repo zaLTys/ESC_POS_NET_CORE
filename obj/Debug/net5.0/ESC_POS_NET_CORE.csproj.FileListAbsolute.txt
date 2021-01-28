@@ -9,3 +9,4 @@ C:\Projects\ESC_POS_NET_CORE\obj\Debug\net5.0\ESC_POS_NET_CORE.csproj.CoreCompil
 C:\Projects\ESC_POS_NET_CORE\obj\Debug\net5.0\ESC_POS_NET_CORE.dll
 C:\Projects\ESC_POS_NET_CORE\obj\Debug\net5.0\ref\ESC_POS_NET_CORE.dll
 C:\Projects\ESC_POS_NET_CORE\obj\Debug\net5.0\ESC_POS_NET_CORE.pdb
+C:\Projects\ESC_POS_NET_CORE\obj\Debug\net5.0\ESC_POS_NET_CORE.csprojAssemblyReference.cache

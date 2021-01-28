@@ -39,7 +39,9 @@ namespace ESC_POS_NET_CORE.Extensions
 
             var list = new List<byte>();
             list.AddRange(bytes);
-            list.AddRange(Encoding.GetEncoding(850).GetBytes(value));
+            var encodingProvider = CodePagesEncodingProvider.Instance;
+            Encoding.RegisterProvider(encodingProvider);
+            list.AddRange(Encoding.GetEncoding(1257).GetBytes(value));
             return list.ToArray();
         }
 

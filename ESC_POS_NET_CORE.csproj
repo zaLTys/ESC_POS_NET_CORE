@@ -6,6 +6,7 @@
     <Authors>zaLTys</Authors>
     <PackageId>ESC-POS-NET-CORE</PackageId>
     <Product>ESC-POS-NET-CORE</Product>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
